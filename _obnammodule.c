@@ -64,6 +64,7 @@
     #include <sys/xattr.h>
     #define NO_NANOSECONDS 0
 #endif
+#define NO_NANOSECONDS 1
 
 
 static PyObject *
