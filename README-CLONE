@@ -1,0 +1,8 @@
+This clone of obnam-mirror/obnam was created for building a stripped down version of obnam which can be installed on QNAP NAS systems.
+
+Platforms tested:
+QNAP DS210 (arm based)
+
+Steps for preparing the OS
+
+Steps for installing obnam
